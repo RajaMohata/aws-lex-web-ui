@@ -21,7 +21,7 @@
         v-bind:key="button.id"
         v-on:click.once.native="onButtonClick(button.value)"
         v-bind:disabled="hasButtonBeenClicked"
-        round
+        outline
         default
       >
         {{button.text}}
