@@ -1,5 +1,5 @@
 <template>
-  <v-footer app fixed>
+  <v-footer app>
     <v-layout
       row
       justify-space-between
